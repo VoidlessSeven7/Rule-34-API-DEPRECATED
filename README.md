@@ -6,7 +6,9 @@ This is a small web-api that implements all functionalities of the original rule
 
 # This is a fork
 
-Im forking this to re-host it closer to where [[r34.app]](https://r34.app/) users are (Spain)
+Im forking this to re-host it closer to where [r34.app](https://r34.app/) users are (Spain)
+
+Live at [r34-app-api.herokuapp.com](https://r34-app-api.herokuapp.com/)
 
 ## Hosted on heroku
 
