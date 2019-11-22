@@ -1,7 +1,6 @@
 const express = require("express");
 const scraper = require("../misc/scraper");
 const transformPost = require("../misc/transform");
-const track = require("../analytics/analytics").track;
 const postRouter = express.Router();
 
 const baseUrl = "https://rule34.xxx/index.php?page=dapi&s=post&q=index";
@@ -10,7 +9,6 @@ postRouter.get("/", function(req, res) {
   try {
     scraper(getUrl(req), toPosts, function(posts) {
       res.json(posts);
-      track(req, posts);
     });
   } catch (err) {
     console.log(err);
