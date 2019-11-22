@@ -4,6 +4,10 @@ This is a small web-api that implements all functionalities of the original rule
 
 [[Check Status]](https://stats.uptimerobot.com/EZVwES34jJ)
 
+# This is a fork
+
+Im forking this to re-host it closer to where [[r34.app]](https://r34.app/) users are (Spain)
+
 ## Hosted on heroku
 
 I put it up two times for safety while i tweak stuff.
