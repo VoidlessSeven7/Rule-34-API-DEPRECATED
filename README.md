@@ -6,6 +6,6 @@ Ultimately I saw lots of flaws on the design and decided to create my own [origi
 # This is a fork
 Only changes commited are the removal of analytics.
 
-~~Live at [r34-app-api.herokuapp.com](https://example.com/)~~
+~~[Check it live](https://example.com/)~~
 
 No longer live, as it's unused, but you're free to fork it and host it yourself.
